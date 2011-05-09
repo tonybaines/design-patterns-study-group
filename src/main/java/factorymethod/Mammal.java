@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public abstract class Mammal implements Animal {
 	protected Movement movement;

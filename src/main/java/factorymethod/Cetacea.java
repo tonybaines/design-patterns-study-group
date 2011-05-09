@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public abstract class Cetacea extends Mammal {
 	public Cetacea(Movement movement) {

@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public class SwimMovement implements Movement {
 	@Override

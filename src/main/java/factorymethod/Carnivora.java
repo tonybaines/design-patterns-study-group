@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public abstract class Carnivora extends Mammal {
 	public Carnivora(Movement movement) {

@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public class AnimalFactory {
 	public Animal createNew(final String name) {

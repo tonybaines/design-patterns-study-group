@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public interface Animal {
 

@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public class Human extends Ape {
 	public Human(Movement movement) {

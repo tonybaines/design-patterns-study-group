@@ -1,4 +1,4 @@
-package injection;
+package factorymethod;
 
 public class Monkey extends Primate {
 	public Monkey(Movement movement) {

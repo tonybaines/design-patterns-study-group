@@ -1,8 +1,11 @@
-package injection;
+package factorymethod;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import factorymethod.Animal;
+import factorymethod.AnimalFactory;
 
 public class AnimalsTest {
     @Test
