@@ -1,4 +1,6 @@
-package factorymethod;
+package animals;
+
+import movement.Movement;
 
 public abstract class Mammal implements Animal {
 	protected Movement movement;

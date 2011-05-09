@@ -1,4 +1,4 @@
-package factorymethod;
+package movement;
 
 public class WalkMovement implements Movement {
 	@Override

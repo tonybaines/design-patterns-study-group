@@ -1,5 +1,14 @@
 package factorymethod;
 
+import movement.RunMovement;
+import movement.SwimMovement;
+import movement.WalkMovement;
+import animals.Animal;
+import animals.Bear;
+import animals.Dolphin;
+import animals.Human;
+import animals.Monkey;
+
 public class AnimalFactory {
 	public Animal createNew(final String name) {
 		if (Human.class.getSimpleName().equals(name)) {

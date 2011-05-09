@@ -4,7 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import factorymethod.Animal;
+import animals.Animal;
+
 import factorymethod.AnimalFactory;
 
 public class AnimalsTest {

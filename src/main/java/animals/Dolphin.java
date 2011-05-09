@@ -1,4 +1,6 @@
-package factorymethod;
+package animals;
+
+import movement.Movement;
 
 public class Dolphin extends Cetacea {
 

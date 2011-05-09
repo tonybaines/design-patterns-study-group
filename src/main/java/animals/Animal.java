@@ -1,4 +1,4 @@
-package factorymethod;
+package animals;
 
 public interface Animal {
 
