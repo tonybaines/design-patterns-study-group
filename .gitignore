@@ -3,3 +3,4 @@ bin/
 .gradle/
 .project
 .settings/
+design-patterns-study-group.i*
